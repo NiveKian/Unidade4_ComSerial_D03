@@ -62,4 +62,4 @@ O módelo wokwi funciona melhor ativando o process_UART() em vez do process_USB(
 
 # Video de Funcionamento
 
-[![video](URL_da_imagem_do_video)](URL_do_video)
+[![video](images/tumbnail_video.png)](https://drive.google.com/file/d/1dX4Jp0avNjiecwaIDkSKiIyV9NKIb3pN/view?usp=sharing)
